@@ -1,0 +1,9 @@
+
+#mai{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.grid{
+    border:1px solid black;   
+}
